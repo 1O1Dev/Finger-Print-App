@@ -37,6 +37,8 @@ dependencies:
   cupertino_icons: ^1.0.2
   local_auth: ^2.1.6
   shared_preferences: ^2.2.0
+  flutter_riverpod: ^2.3.6
+  intl: ^0.18.1
 
 dev_dependencies:
   flutter_test:
